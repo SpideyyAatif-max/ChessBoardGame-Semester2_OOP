@@ -62,7 +62,7 @@ Stores:
 piece name
 piece color
 piece symbol
-
+</n>
 2. ChessBoard
 <p>Represents the chess board.</p>
 Responsibilities:
@@ -73,7 +73,7 @@ move pieces
 validate moves
 handle captures
 delete dynamically allocated pieces
-
+</n>
 3. Player
 <p>Represents a player.</p>
 Responsibilities:
